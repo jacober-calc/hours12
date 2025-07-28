@@ -1,6 +1,6 @@
 # hours12 Program Listing
 
-*Made by jacober-calc for the HP12c calculator*
+*Made by jacober-calc for the DM12C/12L (HP12c) calculators*
 
 ## Note from the Author
 

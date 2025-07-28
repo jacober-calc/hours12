@@ -72,3 +72,5 @@ Enter the start time in H.m (for example, 5.23) which will be stored in register
 ## Suggestion
 
 You can write another very simple listing that multiplies a value in the x-register by your own hourly wage. Inputting the HOURS listing from the start you can commence the WAGE routine from line 040 and it should end at line 045. This will mean you have a total of 50 program lines used and you can run the HOURS program with R/S and the WAGES program with GTO 040 to calculate the amount you make based on the hours worked (and calculated using the HOURS routine).
+
+![jacober-calc](https://i.imgur.com/5OHgapI.png)
